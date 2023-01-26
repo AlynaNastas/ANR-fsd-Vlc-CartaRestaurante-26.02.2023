@@ -1,10 +1,28 @@
 body{
     background-color: rgb(181, 194, 95);
 }
+
 .navbar-brand{
     color: rgb(36, 86, 36);
     font-family: Questrial;
 }
 .navbar-nav{
     font-family: Questrial;
+}
+.welcoming{
+    background-color: rgb(35, 73, 73);
+    border: 2px black solid;
+    font-family: Questrial;
+    color: rgb(250, 250, 250);
+    padding: 30px 30px 30px 30px;
+    margin-top: 10px;
+
+}
+.row1{
+    color:rgb(36, 86, 36);
+    font-family: Questrial;
+    gap: 5px;
+}
+
+.row2{
 }
