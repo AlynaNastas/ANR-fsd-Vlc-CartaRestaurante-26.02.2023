@@ -15,14 +15,18 @@ body{
     font-family: Questrial;
     color: rgb(250, 250, 250);
     padding: 30px 30px 30px 30px;
-    margin-top: 10px;
-
+    margin-top: 5px;
+}
+.first-img{
+    padding-top: 60px;
 }
 .row1{
     color:rgb(36, 86, 36);
     font-family: Questrial;
-    gap: 5px;
+    gap: 10px;
 }
 
 .row2{
+    border: solid black 2px;
+    padding-top: 20px;
 }
