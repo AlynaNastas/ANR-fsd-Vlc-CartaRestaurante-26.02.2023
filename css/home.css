@@ -1,7 +1,11 @@
 .body{
-background-color: rgb(181, 194, 95);
+    background-color: rgb(181, 194, 95);
 }
 
+.container{
+    font-family: Questrial;
+    padding-top: 20px;
+}
 .row1{
     background-color: #234949;
     font-family: Questrial;
@@ -15,5 +19,23 @@ background-color: rgb(181, 194, 95);
     color: rgb(250, 250, 250);
     padding: 30px 30px 30px 30px;
     margin-top: 30px;
+}
+.p1{
+   padding-bottom: 10px;
+}
+.p2{
+    padding-bottom: 10px;
+}
+.p3{padding-bottom: 10px;
+}
+.p4{
+    padding-bottom: 10px;
+}
+
+.image1{
+    background-color:  rgb(181, 194, 95);
+    font-size: 20px;
+    padding: 30px;
+    border: solid black 2px;;
 }
 
