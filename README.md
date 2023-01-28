@@ -3,7 +3,7 @@
 Carta de un restaurante :fork_and_knife:
 - "The Blues Brunch Valencia".
 
-## Tecnologías empleadas:
+## Tecnologías empleadas
 
 HTML & CSS
 Bootstrap
@@ -17,5 +17,7 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace: https://git
 
 
 
-##License
-The MIT License.
+## License
+
+The MIT License :page_facing_up:
+
