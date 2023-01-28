@@ -6,6 +6,7 @@ Carta de un restaurante :fork_and_knife:
 ## Tecnologías empleadas
 
 HTML & CSS
+
 Bootstrap
 
 ![image](https://user-images.githubusercontent.com/121962750/215277229-ec3606fa-3246-421a-8ab1-d7972c77b238.png)
