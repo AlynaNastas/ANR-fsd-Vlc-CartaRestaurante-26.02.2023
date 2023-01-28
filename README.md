@@ -24,3 +24,12 @@ The MIT License :page_facing_up:
 ![cap 2](https://user-images.githubusercontent.com/121962750/215278909-c20065ea-3f8a-4181-b6f9-9b94d5e7bd10.png)
 ![capt3](https://user-images.githubusercontent.com/121962750/215278910-5ec018df-23c6-43fc-b47a-b3f7bc99f009.png)
 ![cap3](https://user-images.githubusercontent.com/121962750/215278912-55f25b65-ffd5-48d5-8c76-3a8c611317e7.png)
+
+## Vista de mi segunda página
+
+
+![menu](https://user-images.githubusercontent.com/121962750/215279027-72d36740-3533-4f3d-b8af-41fdf5c21b0c.png)
+![image2](https://user-images.githubusercontent.com/121962750/215279033-3627b728-9778-4587-9fe2-a1014c6dee87.png)
+![veggie](https://user-images.githubusercontent.com/121962750/215279049-839f95d9-5fc8-41b7-a80e-3a4a5acca419.png)
+![footer](https://user-images.githubusercontent.com/121962750/215279068-365a5971-8d11-4852-9cd0-ec3ad39484d3.png)
+
