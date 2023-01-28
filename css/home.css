@@ -30,9 +30,15 @@
 .p4{
     padding-bottom: 60px;
 }
+.p5{
+    padding-bottom: 10px;
+}
+.p6{
+    padding-bottom: 10px;
+}
 .Lunch{
     color: rgb(181, 194, 95);
-    padding-top: 20px;
+    padding-top: 30px;
     padding-bottom: 20px;
 
 }
@@ -47,4 +53,5 @@
     padding-top: 20px;
     border: 2px solid black;
 }
+
 
