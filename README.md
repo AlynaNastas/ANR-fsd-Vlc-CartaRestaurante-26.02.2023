@@ -20,7 +20,7 @@ The MIT License :page_facing_up:
 ## Vista de mi primera página
 
 
-![cap1](https://user-images.githubusercontent.com/121962750/215278758-f1020c1d-9ae6-4568-919d-cfb0c2b700e8.png)
-![cap 2](https://user-images.githubusercontent.com/121962750/215278762-3f8c3c3e-cfb1-4e4b-b545-2783a68b9b62.png)
-![cap3](https://user-images.githubusercontent.com/121962750/215278764-84a8579b-4c44-46a3-b066-ee3ae86b9894.png)
-![cap 4](https://user-images.githubusercontent.com/121962750/215278767-5155f855-b60b-4065-af4a-ad4bce091efe.png)
+![cap1](https://user-images.githubusercontent.com/121962750/215278904-434e8e6f-1f7b-4935-9d38-788f30e6c576.png)
+![cap 2](https://user-images.githubusercontent.com/121962750/215278909-c20065ea-3f8a-4181-b6f9-9b94d5e7bd10.png)
+![capt3](https://user-images.githubusercontent.com/121962750/215278910-5ec018df-23c6-43fc-b47a-b3f7bc99f009.png)
+![cap3](https://user-images.githubusercontent.com/121962750/215278912-55f25b65-ffd5-48d5-8c76-3a8c611317e7.png)
