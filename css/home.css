@@ -1,14 +1,14 @@
-
-
+/*Central page*/
 .container{
     font-family: Questrial;
     padding-top: 20px;
 }
+/*Menu and footer*/
 .row1{
     background-color: #234949;
     font-family: Questrial;
     color: rgb(250, 250, 250);
-    padding: 30px 30px 30px 30px;
+    padding:30px 20px 30px 30px;
     margin-top: 30px;
 }
 .row2{
@@ -18,8 +18,9 @@
     padding: 30px 30px 30px 30px;
     margin-top: 30px;
 }
+/*Details of the menu*/
 .p1{
-   padding-bottom: 10px;
+    padding-bottom: 10px;
 
 }
 .p2{
@@ -36,22 +37,25 @@
 .p6{
     padding-bottom: 10px;
 }
+/*Headers of the menu*/
 .Lunch{
     color: rgb(181, 194, 95);
     padding-top: 30px;
     padding-bottom: 20px;
-
 }
+/*Central Image*/
 .image1{
     background-color:  rgb(181, 194, 95);
     font-size: 20px;
     padding: 30px;
     border: solid black 2px;;
 }
+/*Bar allergy information*/
 .container1{
     font-family: Questrial;
     padding-top: 20px;
     border: 2px solid black;
 }
+
 
 
