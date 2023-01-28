@@ -17,7 +17,7 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace: https://git
 
 The MIT License :page_facing_up:
 
-## Vista de mi primera página
+## Vista de la primera página
 
 
 ![cap1](https://user-images.githubusercontent.com/121962750/215278904-434e8e6f-1f7b-4935-9d38-788f30e6c576.png)
@@ -25,11 +25,18 @@ The MIT License :page_facing_up:
 ![capt3](https://user-images.githubusercontent.com/121962750/215278910-5ec018df-23c6-43fc-b47a-b3f7bc99f009.png)
 ![cap3](https://user-images.githubusercontent.com/121962750/215278912-55f25b65-ffd5-48d5-8c76-3a8c611317e7.png)
 
-## Vista de mi segunda página
+## Vista de la segunda página
 
 
 ![menu](https://user-images.githubusercontent.com/121962750/215279027-72d36740-3533-4f3d-b8af-41fdf5c21b0c.png)
 ![image2](https://user-images.githubusercontent.com/121962750/215279033-3627b728-9778-4587-9fe2-a1014c6dee87.png)
 ![veggie](https://user-images.githubusercontent.com/121962750/215279049-839f95d9-5fc8-41b7-a80e-3a4a5acca419.png)
 ![footer](https://user-images.githubusercontent.com/121962750/215279068-365a5971-8d11-4852-9cd0-ec3ad39484d3.png)
+
+
+## Vista de la tercera página
+
+![contact](https://user-images.githubusercontent.com/121962750/215279189-8a23f952-7ea3-4f4c-b560-2188e3662253.png)
+![map1](https://user-images.githubusercontent.com/121962750/215279192-2142e0a1-5f97-46e6-9517-e16d5c485eef.png)
+![info](https://user-images.githubusercontent.com/121962750/215279194-a8de8c3c-35a8-4195-a83c-c51ec85d6159.png)
 
