@@ -1,6 +1,6 @@
 # ANR-fsd-Vlc-CartaRestaurante-26.02.2023
 ## Título del Proyecto
-Carta de un restaurante
+Carta de un restaurante http://twemoji.maxcdn.com/36x36/1f374.png
 - "The Blues Brunch Valencia".
 
 ## Tecnologías empleadas:
