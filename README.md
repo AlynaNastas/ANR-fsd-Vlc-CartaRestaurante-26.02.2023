@@ -38,5 +38,6 @@ The MIT License :page_facing_up:
 
 ![contact](https://user-images.githubusercontent.com/121962750/215279189-8a23f952-7ea3-4f4c-b560-2188e3662253.png)
 ![map1](https://user-images.githubusercontent.com/121962750/215279192-2142e0a1-5f97-46e6-9517-e16d5c485eef.png)
+![horario](https://user-images.githubusercontent.com/121962750/215279259-66ca8b80-cd9e-4474-8b38-a0021968669c.png)
 ![info](https://user-images.githubusercontent.com/121962750/215279194-a8de8c3c-35a8-4195-a83c-c51ec85d6159.png)
 
